@@ -28,9 +28,3 @@ Employee-Management/
 - Node.js installed
 - MongoDB installed and running locally
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/employee-management.git
-cd employee-management
-
